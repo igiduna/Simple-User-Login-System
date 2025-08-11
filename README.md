@@ -1,2 +1,2 @@
 # Simple-User-Login-System
-This is one of the systems I did when I started learning python
+A simple user login system that uses dictionary
